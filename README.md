@@ -69,28 +69,10 @@
 
 ---
 
-## 🔥 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pareshprajapati-777&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-
-</div>
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ From [Paresh Prajapati](https://github.com/Pareshprajapati-777) — *Proudly crafted with* [GPRM](https://gprm.itsvg.in)
 
 </div>
