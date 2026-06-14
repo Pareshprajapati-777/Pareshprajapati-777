@@ -41,12 +41,12 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=plotly&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="36"/>
 
 </div>
 
